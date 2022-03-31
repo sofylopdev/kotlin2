@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Sofia Lopes</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam elementum venenatis risus, hendrerit dapibus libero. Nullam tortor risus, ultricies eget interdum ac, rhoncus non magna. Fusce varius sit amet risus sit amet hendrerit. Donec ullamcorper volutpat diam, eu finibus mauris porta id. Nulla dictum augue ut facilisis ultrices. Nam fermentum, ante non suscipit vehicula, dolor neque finibus nulla, et accumsan mauris dolor ultrices ligula. Morbi consectetur imperdiet elementum. Proin vel mollis nisi. Nam lorem magna, posuere molestie sem id, dictum pharetra lacus. Etiam posuere lacus eu enim viverra, id aliquam risus aliquet. Integer blandit odio elit, tempor hendrerit elit posuere id. Vivamus ut maximus enim, eleifend semper magna. Mauris sed blandit est. Nullam lacus lorem, consequat sed hendrerit a, lobortis eget libero. Vivamus sem dui, lobortis sed interdum eget, condimentum sed neque.
+
+\nIn maximus, sem nec pulvinar vestibulum, sapien lacus convallis dolor, nec pellentesque est enim ut tellus. Donec elementum ullamcorper enim, non dapibus felis lacinia sit amet. Nullam a dictum orci. Ut scelerisque leo sed scelerisque commodo. Proin placerat dui ipsum, a pellentesque nibh aliquam eu. Vestibulum bibendum ac arcu sed consectetur. Fusce quis elit lacinia, tempus libero sit amet, tincidunt nunc.
+
+\nFusce luctus neque ex, vitae hendrerit nibh volutpat vitae. Donec vestibulum feugiat dui, hendrerit euismod magna congue in. Mauris sed consequat ante, ut accumsan turpis. Quisque elit lacus, feugiat non pulvinar ut, molestie eu lacus. Donec vulputate nec odio molestie iaculis. Proin suscipit turpis non iaculis iaculis. Cras tempor massa tortor, in tincidunt eros sagittis pulvinar. Praesent ut enim faucibus, gravida felis eu, luctus ipsum. Mauris dolor purus, dictum non congue eu, tincidunt quis mi. Suspendisse id massa erat. Vestibulum vel felis ut mi commodo interdum placerat sed dolor. Suspendisse tempus erat ex, porta facilisis est tristique sit amet. Nam porttitor purus a risus imperdiet consectetur. Vestibulum a lobortis enim, sed mollis lacus.
+
+\nFusce congue semper lorem, eget ornare est ultrices vitae. In vulputate hendrerit tortor non pulvinar. Suspendisse faucibus dolor eu libero euismod, sed porttitor tortor tincidunt. Aliquam a risus tristique ex sodales aliquet nec a neque. Etiam tristique semper congue. Sed eget commodo nibh. Pellentesque sit amet quam ligula. Duis scelerisque odio vel lacinia rutrum. Praesent eu velit orci. Vestibulum auctor, sem ut viverra aliquam, felis libero lacinia lectus, et efficitur tellus purus non mi.
+
+\nFusce ac placerat lacus. Nulla facilisi. Pellentesque tristique volutpat aliquam. Phasellus non mi id tellus vestibulum aliquet. Nullam non velit aliquet, viverra justo quis, bibendum odio. Fusce ex erat, suscipit quis scelerisque vel, bibendum eu turpis. Nam auctor fermentum velit sed suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
